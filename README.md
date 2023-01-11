@@ -5,7 +5,7 @@
 ---
 
 2023-01-11 - 백준 알고리즘 단계별 1단계 입출력과 사칙연산 7번
-자바스크립트 기초 논리 연산자, for, while 반복문, switch문, function 기초. 화살표 함수
+자바스크립트 기초 논리 연산자, for, while 반복문, switch문, function 기초, 화살표 함수, 객체 기초, method, this
 
 <details>
 <summary>지난 기록(2023-01 ~)</summary>
