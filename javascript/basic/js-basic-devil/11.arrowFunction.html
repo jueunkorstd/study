@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // 일반 함수 선언
+      let add = function (num1, num2) {
+        return num1 + num2;
+      };
+
+      // 화살표 함수
+      let add1 = (num1, num2) => {
+        return num1 + num2;
+      };
+
+      let showError = () => {
+        console.log("에러가 발생했습니다.");
+      };
+
+      let sayHello = (name) => {
+        const msg = `Hello, ${name}!`;
+        console.log(msg);
+      };
+    </script>
+  </body>
+</html>
