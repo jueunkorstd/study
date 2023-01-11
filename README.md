@@ -4,8 +4,11 @@
 
 ---
 
-2023-01-11 - 백준 알고리즘 단계별 1단계 입출력과 사칙연산 7번
-자바스크립트 기초 논리 연산자, for, while 반복문, switch문, function 기초, 화살표 함수, 객체 기초, method, this, array<br/>https://jueunkorstd.notion.site/JavaScript-8394651f501b40eba9cbb77be30853da<br/>
+2023-01-11 - 백준 알고리즘 단계별 1단계 입출력과 사칙연산 7번<br/>
+자바스크립트 기초 논리 연산자, for, while 반복문, switch문, function 기초, 화살표 함수, 객체 기초, method, this, array<br/>
+https://jueunkorstd.notion.site/JavaScript-8394651f501b40eba9cbb77be30853da<br/>
+자바스크립트 변수, 호이스팅, TDZ<br/>
+https://jueunkorstd.notion.site/TDZ-Temporal-Dead-Zone-8d45e7da25a245398b2b18da95ab1d6d<br/><br/>
 2023-01-09 ~ 2023-01-11 자바스크립트 기초 정리 강의 완강<br/>
 [자바스크립트 기초 강좌 : 100분 완성] https://www.youtube.com/watch?v=KF6t61yuPCY&t=2149s <br/>
 
