@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // 우선순위 && > OR
+      // 남자이고, 이름이 Mike 이거나 성인이면 통과
+
+      const gender = "M";
+      const name = "Jane";
+      const isAdult = true;
+
+      if (gender === "M" && (name === "Mike" || isAdult)) {
+        console.log("통과");
+      } else {
+        console.log("거절");
+      }
+    </script>
+  </body>
+</html>
