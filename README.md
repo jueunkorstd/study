@@ -4,7 +4,7 @@
 
 ---
 
-2023-01-22 - node.js url parsing<br/>
+2023-01-22 - node.js url parsing, file read<br/>
 
 <details>
 <summary>지난 기록(2023-01 ~)</summary>
